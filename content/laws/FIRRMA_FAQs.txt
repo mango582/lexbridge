@@ -1,0 +1,345 @@
+ 
+1 
+ 
+ 
+U.S. Department of the Treasury 
+Office of Public Affairs 
+ 
+Date:   January 13, 2020 
+Contact:  Treasury Public Affairs, (202) 622-2960 
+ 
+Frequently Asked Questions on Final CFIUS Regulations Implementing 
+FIRRMA  
+ 
+General 
+ 
+Why is the Department of the Treasury issuing these regulations?  
+The two rules published in the Federal Register on January 13, 2020, finalize the regulations 
+relating to the Committee on Foreign Investment in the United States (CFIUS).  The Department 
+of the Treasury previously published proposed versions of the regulations, on which it received 
+comments from the public.  The regulations implement the Foreign Investment Risk Review 
+Modernization Act of 2018 (FIRRMA), which was enacted with bipartisan support on August 
+13, 2018.  FIRRMA strengthens and modernizes CFIUS, an interagency committee authorized to 
+review certain transactions involving foreign investment in the United States, in order to 
+determine the effect of such transactions on the national security of the United States.  The 
+regulations implement changes that FIRRMA made to CFIUS’s jurisdiction and review process.   
+ 
+The Department of the Treasury published the regulations in two parts: 
+ 
+ Provisions Pertaining to Certain Investments in the United States by Foreign Persons: 
+These regulations replace the current regulations found at part 800 of title 31 of the Code 
+of Federal Regulations (C.F.R.) and implement the changes that FIRRMA made to 
+CFIUS’s jurisdiction and process with respect to transactions that could result in foreign 
+control of any U.S. business, as well as certain non-controlling “covered investments” 
+that afford a foreign person certain access, rights, or involvement in certain types of U.S. 
+businesses. 
+ 
+ Provisions Pertaining to Certain Transactions by Foreign Persons Involving Real Estate 
+in the United States: These regulations establish a new part 802 of title 31 of the C.F.R. 
+
+ 
+2 
+ 
+and implement the authority FIRRMA provided to CFIUS to review the purchase or lease 
+by, or concession to, a foreign person of certain real estate in the United States. 
+ 
+Additionally, incorporated into both rules is an interim rule on the new definition for “principal 
+place of business,” on which the Department of the Treasury is seeking public comments.  
+ 
+When do these regulations become effective? 
+The two rules become effective on February 13, 2020.  The interim rule that defines “principal 
+place of business” also becomes effective on February 13, 2020.  The Department of the 
+Treasury is seeking public comments on this definition, and it may be amended based upon 
+comments received.   
+ 
+Is the United States still open to foreign investment? 
+The United States welcomes foreign investment and remains one of the most open countries in 
+the world to foreign investors.  The United States is also one of the best places to invest, having 
+adopted strong economic growth policies and maintained a strong innovation ecosystem and 
+highly developed market.  The specificity provided in the regulations gives clarity to the business 
+and investment communities with respect to the types of transactions that are covered by the 
+Committee’s new authority under FIRRMA.  The CFIUS process, as modernized and 
+strengthened by FIRRMA and these regulations, should enhance confidence in the nation’s 
+longstanding open investment policy. 
+ 
+How do the final regulations differ from the proposed regulations issued in September 
+2019?  
+The Department of the Treasury published proposed versions of the regulations in September 
+2019, and received comments from the public.  The Department of the Treasury considered each 
+comment submitted during the public comment period and made a number of revisions in 
+response to the comments.  The preambles to the final rules contain summaries of these changes. 
+ 
+In response to written comments, the final rules update a number of provisions including: 
+ adding a definition for “principal place of business;”  
+ modifying certain criteria to qualify as an “excepted investor;”  
+ clarifying the application of the “incremental acquisition rule;”  
+ adjusting the treatment of genetic data within the definition of “sensitive personal data;” 
+ refining the application to investment funds, including by amending the definition of 
+“substantial interest;”  
+ modifying the exceptions for certain real estate transactions in airports and maritime 
+ports; and  
+ refining the geographic coverage relating to certain military installations on appendix A 
+to the real estate regulations. 
+ 
+The rules also include a number of additional illustrative examples and provide clarifying edits in 
+the text of the provisions.  
+ 
+Finally, the rule amending the part 800 regulations incorporates many of the provisions of the 
+pilot program regarding critical technologies (published in October 2018), including the 
+ 
+3 
+ 
+mandatory declaration requirement for certain covered transactions involving certain U.S. 
+businesses that produce, design, test, manufacture, fabricate, or develop one or more critical 
+technologies. 
+ 
+Does the Department of the Treasury anticipate that it will make additional revisions to the 
+regulations in the future or issue other rules?  
+Given the specificity of certain provisions of the rule, the Department of the Treasury anticipates 
+that it will periodically review, and when necessary amend, the regulations to address changes in 
+technology and data use, as well as the evolving national security landscape more generally.  
+ 
+Additionally, as noted in the final rules, FIRRMA also authorizes the Committee to assess and 
+collect fees with respect to covered transactions under both rules for which a written notice is 
+filed.  The Department of the Treasury will publish a separate proposed rule implementing the 
+Committee’s fee authority at a later date. 
+ 
+As noted in the rule amending the part 800 regulations, the Department of the Treasury 
+anticipates issuing a notice of proposed rulemaking that would revise the mandatory declaration 
+requirement for certain covered transactions involving certain U.S. businesses that produce, 
+design, test, manufacture, fabricate, or develop one or more critical technologies. 
+ 
+ 
+Interim Rule on Definition of “Principal Place of Business” 
+ 
+Why is the Department of the Treasury treating the definition of “principal place of 
+business” as an interim rule? 
+The proposed rules that were issued in September 2019 included provisions that use the term 
+“principal place of business.”  The Department of the Treasury received comments on those 
+provisions, including requests to add a definition for the term.  In response to these comments, a 
+definition for “principal place of business” has been included, further clarifying which entities 
+are foreign entities and therefore foreign persons subject to CFIUS jurisdiction.  This definition 
+will become effective with the rest of the rule.  The Department of the Treasury has determined 
+that it would benefit the public and the Committee to receive comments from the public on this 
+definition before it is made final. 
+ 
+When does the public comment period on the interim rule begin and end? 
+The Department of the Treasury is providing an immediate opportunity for public comment on 
+the definition of “principal place of business.”  The comment period will be open for 30 days. 
+ 
+Who may submit comments during the public comment period and how?  
+Interested members of the public may comment on the proposed regulations.  Comments may be 
+submitted electronically through the Federal government’s eRulemaking Portal at 
+https://www.regulations.gov or mailed to: U.S. Department of the Treasury, Attention: Laura 
+Black, Director of Investment Security Policy and International Relations, 1500 Pennsylvania 
+Avenue, NW, Washington, DC 20220.  All comments received, including attachments and other 
+supporting material, will be part of the public record and subject to public disclosure. 
+ 
+
+ 
+4 
+ 
+Control Transactions 
+ 
+Do the regulations change CFIUS’s jurisdiction over transactions that could result in 
+control of a U.S. business by a foreign person? 
+No.  CFIUS maintains its authority to review the potential national security effects of any 
+transaction that could result in foreign control of any U.S. business.  The regulations expand 
+CFIUS’s jurisdiction over certain “non-controlling” transactions and certain real estate 
+transactions. 
+ 
+Country Specification 
+ 
+Do the regulations treat investors from certain countries differently? 
+FIRRMA does not prohibit investments from any country, and investments from all foreign 
+persons remain subject to CFIUS jurisdiction over transactions that could result in foreign 
+control of a U.S. business.  As required by FIRRMA, however, the regulations limit the 
+application of CFIUS’s jurisdiction over non-controlling “covered investments” and certain real 
+estate transactions by certain foreign persons, defined as “excepted investors,” from certain 
+“excepted foreign states.”  Any such eligible investor and foreign state must meet specific 
+criteria to qualify for this status. 
+ 
+How did the Department of the Treasury determine the eligible foreign states under the 
+regulations?  Will the list be revised in the future?  
+CFIUS has identified Australia, Canada, and the United Kingdom as the initial excepted foreign 
+states and excepted real estate foreign states.  CFIUS identified these countries due to certain 
+aspects of their robust intelligence-sharing and defense industrial base integration mechanisms 
+with the United States.  Because this is a new concept with potentially significant implications 
+for U.S. national security, CFIUS is initially identifying a limited number of foreign states and 
+may expand the list in the future.  Note that in order for each of these countries to remain an 
+excepted foreign state and an excepted real estate foreign state after February 13, 2022, the 
+Committee must make a determination regarding an eligible foreign state’s national security-
+based foreign investment review processes and bilateral cooperation with the United States on 
+national security-based investment reviews. 
+ 
+How long does an “excepted foreign state” and “excepted real estate foreign state” have to 
+meet the factors that the Committee will consider when making a determination regarding 
+an eligible foreign state’s national security-based foreign investment review processes and 
+bilateral cooperation?  
+As detailed in the regulations, from February 13, 2020 to February 13, 2022, the countries 
+identified as eligible foreign states are considered “excepted foreign states” and “excepted real 
+estate foreign states.”  In order for each of these countries to remain excepted after the end of the 
+two-year delayed effectiveness period (i.e., February 13, 2022), the Committee must make a 
+determination under § 800.1001 or § 802.1001, as applicable.  This two-year period is intended 
+to provide these initial eligible foreign states time to ensure that their national security-based 
+foreign investment review processes and bilateral cooperation with the United States on national 
+security-based investment review meet the requirements under § 800.1001 and § 802.1001.  The 
+ 
+5 
+ 
+Committee takes no position on whether the foreign states currently meet the determination 
+factors discussed above.   
+ 
+What factors will CFIUS consider in making a determination regarding an eligible foreign 
+state’s national security-based foreign investment review processes and bilateral 
+cooperation with the United States on national security-based investment review? 
+A list of factors will be posted on the Department of the Treasury’s Website outlining what the 
+Committee will consider when making a determination regarding an eligible foreign state’s 
+national security-based foreign investment review processes and bilateral cooperation with the 
+United States on national security-based investment reviews. 
+ 
+Will every foreign person based in an “excepted foreign state” or “excepted real estate 
+foreign state” qualify as an “excepted investor” or “excepted real estate investor” as 
+applicable? 
+Not necessarily.  The regulations identify criteria that a foreign person must meet in order to 
+qualify as an “excepted investor” or “excepted real estate investor” regarding, for example, its 
+principal place of business, place of incorporation, and ownership.  The regulations also identify 
+criteria that would preclude a foreign person from qualifying as an excepted investor, such as 
+non-compliance with the law. 
+ 
+Will “excepted investors” remain subject to CFIUS jurisdiction for control transactions? 
+Yes.  CFIUS retains the authority to review a transaction that could result in foreign control of 
+any U.S. business, regardless of whether the foreign person is an “excepted investor.”   
+ 
+Sensitive Personal Data 
+ 
+Is personally identifiable information (PII) the same as sensitive personal data under the 
+regulations?  
+“Sensitive personal data” is defined to include ten specified categories of data that may be 
+maintained or collected by U.S. businesses.  The categories of data include types of financial, 
+geolocation, and health data, among others.  Moreover, a U.S. business that maintains or collects 
+these categories of data on U.S. citizens will only be considered to have sensitive personal data 
+to the extent it (i) targets or tailors products or services to certain populations, including U.S. 
+military members and employees of federal agencies with national security responsibilities, (ii) 
+collects or maintains such data on at least one million individuals, or (iii) has a demonstrated 
+business objective to maintain or collect such data on greater than one million individuals and 
+such data is an integrated part of the U.S. business’s primary products or services.  Genetic test 
+information is also included in the definition regardless of whether it meets (i), (ii), or (iii).  
+ 
+Declarations 
+ 
+For what type of transactions can parties submit a declaration?  
+The regulations provide a short-form declaration as an alternative to CFIUS’s traditional 
+voluntary notice.  Declarations allow parties to submit basic information regarding a transaction 
+that should generally not exceed five pages in length.  The Department of the Treasury will 
+ 
+6 
+ 
+accept declarations submitted by parties using a standard template form, which will be available 
+on the Department of the Treasury’s Website by the time the final regulations become effective. 
+ 
+In certain circumstances filing a declaration for a transaction is mandatory.  In particular, the 
+regulations implement FIRRMA’s requirement that certain covered transactions where a foreign 
+government is acquiring a “substantial interest” in specified types of U.S. businesses are subject 
+to a mandatory declaration.  Additionally, the regulations require the filing of a declaration for 
+covered transactions involving certain U.S. businesses that produce, design, test, manufacture, 
+fabricate, or develop one or more critical technologies.  Parties may choose to file a notice 
+instead of a declaration.  
+ 
+How do the regulations address the pilot program on critical technologies that became 
+effective in November 2018? 
+The pilot program on critical technologies remains in effect through February 12, 2020.  Starting 
+on February 13, 2020, parties should analyze their transactions involving U.S. businesses with 
+critical technologies under the regulations for part 800.   
+ 
+The rule published for part 800 incorporates many of the provisions of the pilot program on 
+critical technologies, including the mandatory filing requirement for certain covered transactions 
+involving critical technologies.  As noted in the regulations, the Department of the Treasury 
+anticipates issuing a notice of proposed rulemaking that would revise the mandatory declaration 
+requirement regarding critical technology from one based upon North American Industry 
+Classification System (NAICS) codes to one based upon export control licensing requirements. 
+ 
+Real Estate 
+ 
+In what locations are real estate transactions covered by the regulations on real estate? 
+The regulations on real estate are generally structured around specific sites—certain airports, 
+maritime ports, and military installations—and specific geographic areas in and around those 
+sites.  Other facilities or properties of the U.S. Government may in the future be included in the 
+list of sites identified in the rule. 
+ 
+Will the Department of the Treasury publish a tool to help the public interpret the scope of 
+the new real estate regulations?  
+The Department of the Treasury anticipates making available a Web-based tool to help the public 
+understand the geographic coverage of the rule.  In the meantime, the Census Bureau within the 
+Department of Commerce maintains a Web-based system, TIGERweb, which allows users to 
+select features (e.g., military installations, urbanized areas, and urban clusters) and view such 
+attributes on a map.  Additionally, the Department of Transportation publishes the relevant lists 
+of airports and maritime ports referenced in the rule.  Finally, the Bureau of Ocean Energy 
+Management maintains Web-based resources which should be helpful to parties with 
+transactions in or near the offshore areas. 
+ 
+ 
+7 
+ 
+Are all real estate transactions covered if they fall within the specific geographic areas 
+described in the regulations? 
+No.  The regulations on real estate transactions exclude from CFIUS’s jurisdiction certain 
+transactions based on characteristics of the foreign person, the transaction, and the real estate.  
+The regulations include a section on “excepted real estate transactions” and exclude the 
+following, subject to certain conditions: 
+ real estate transactions involving an excepted real estate investor; 
+ real estate transactions that are part of a “covered transaction” under the part 800 
+regulations; 
+ real estate transactions in an “urbanized area” or “urban cluster,” as defined by the 
+Census Bureau, except those relating to “covered ports” and those in “close proximity” to 
+certain military installations; 
+ the purchase, lease, or concession of a single “housing unit,” as defined by the Census 
+Bureau;  
+ the lease or concession of real estate in airports and maritime ports for the purpose of 
+retail sales;  
+ the lease or concession of real estate in airports and maritime ports involving a foreign air 
+carrier with a security program accepted by the Transportation Security Administration; 
+ the purchase, lease, or concession of certain commercial space in a multi-unit commercial 
+building; and 
+ transactions involving real estate owned by Alaska Natives or held in trust by the United 
+States for certain native populations. 
+ 
+Do the regulations cover the sale or lease of residential property? 
+FIRRMA excludes from CFIUS’s jurisdiction the purchase or lease by, or concession to, a 
+foreign person of a single “housing unit,” as defined by the Census Bureau.  Given that many 
+single housing units are conveyed with adjoining land, the regulations on real estate also 
+exclude any fixtures and adjacent land but only to the extent they are incidental to the intended 
+use of the real estate as a housing unit.  Fixtures and land may be considered incidental if their 
+size and nature is common for similar single housing units in the locality in which the unit is 
+located.  If the incidental fixtures or land is not common for other similar housing units in the 
+locality, the exception would apply only to the housing unit itself.   
+ 
+Are all real estate transactions in urbanized areas excluded from the regulations? 
+No, in certain locations, real estate transactions in urbanized areas are within the scope of the 
+regulations.  Specifically, transactions involving real estate that is in “close proximity” (one 
+mile) to a military installation listed in part 1 or part 2 of appendix A is covered, as is real 
+estate that is, is located within, or will function as part of a “covered port.”   
+ 
+Where can I find more information on urbanized areas and urban clusters? 
+Information on urbanized areas and urban clusters can be found on the Census Bureau Website, 
+including though a Web-based system, TIGERweb, which allows users to select features such as 
+urbanized areas and urban clusters, and view such attributes on a map.  See 
+https://tigerweb.geo.census.gov/tigerweb/.   
+ 
+
+ 
+8 
+ 
+Is there a mandatory notification requirement for real estate transactions? 
+No.  The transactions described in the regulations on real estate are not subject to a mandatory 
+declaration requirement.  As a general matter, parties to a covered real estate transaction will 
+decide whether to file a notice or submit a declaration to CFIUS.   
+ 
+Filing Fees 
+ 
+Do the regulations establish filing fees pursuant to FIRRMA? 
+No.  The Department of the Treasury will publish separate proposed regulations regarding filing 
+fees at a later date. 
+ 
+### 
+ 
